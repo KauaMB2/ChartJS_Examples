@@ -41,12 +41,4 @@ If you'd like to contribute to this repository, you can follow these steps:
 
 Your contributions are highly appreciated!
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use the code examples for personal or commercial purposes.
-
-If you use any of the examples or find this repository helpful, it would be great if you could provide attribution by linking back to this repository.
-
----
-
 Happy charting with Chart.js!
